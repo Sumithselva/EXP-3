@@ -62,4 +62,8 @@ b)SPDT(XOR):
 ![WhatsApp Image 2025-11-17 at 12 29 01 AM](https://github.com/user-attachments/assets/8b428845-d379-450b-b028-7f8288e93d28)
 ![WhatsApp Image 2025-11-17 at 12 29 01 AM](https://github.com/user-attachments/assets/01a4b680-70ac-48c2-bd8b-150286bdeb78)
 
+
 ![WhatsApp Image 2025-11-17 at 12 29 02 AM](https://github.com/user-attachments/assets/7f4b6c50-0123-4bbb-803b-0a1d9d749d3f)
+
+# RESULT:
+Thus the staircase wiring is connected and tested.
